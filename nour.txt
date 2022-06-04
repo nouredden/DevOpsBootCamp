@@ -1,0 +1,7 @@
+this is nour edden personal information page:
+name : nour edden alrez
+age : 26
+gender: male
+studey : master in web technology
+work: system administrator at syrian arab red cresent
+Love my family
